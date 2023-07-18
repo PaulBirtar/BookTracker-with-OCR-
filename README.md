@@ -1,22 +1,23 @@
-This is the project for my bachelor's. 
+This project was developed as part of my bachelor's degree. 
 
-It is a book tracker web application built with the technologies react, nodejs, express, mongodb, Google Books API and Tesseract OCR. It allows users to search and add books to their library via Google Books API. The users can also make use of a webcam or a phone's camera to extract the title from a book, search for it and add it to their book tracker.
+It is a book tracker web application built using React, Node.js, Express, MongoDB, Google Books API, and Tesseract OCR. The application enables users to search for and add books to their library by utilizing the Google Books API. Additionally, users have the option to utilize a webcam or a phone's camera to extract book titles, search for them, and add them to their book tracker.
 
 ## Installation
 
-# Clone the repository:
+###  Clone the repository:
 
    git clone https://github.com/your-username/your-repository.git
 
-# Navigate to the project directory:
+### Navigate to the project directory:
    cd your-repository
 
-# Install dependencies:
+### Install dependencies:
    npm install
 
-# Create a MongoDB database (preferably named BookTracker) and connect it to the project in the database.js folder
+### MongoDB Connection
+Create a MongoDB database (preferably named BookTracker) and connect it to the project in the database.js folder.
 
-# Start the development server:
+### Start the development server:
   npm run start 
   OR
   npm start
