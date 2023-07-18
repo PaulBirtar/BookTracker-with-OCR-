@@ -4,19 +4,19 @@ It is a book tracker web application built with the technologies react, nodejs, 
 
 ## Installation
 
-Clone the repository:
+# Clone the repository:
 
    git clone https://github.com/your-username/your-repository.git
 
-Navigate to the project directory:
+# Navigate to the project directory:
    cd your-repository
 
-Install dependencies:
+# Install dependencies:
    npm install
 
-Create a MongoDB database (preferably named BookTracker) and connect it to the project in the database.js folder
+# Create a MongoDB database (preferably named BookTracker) and connect it to the project in the database.js folder
 
-Start the development server:
+# Start the development server:
   npm run start 
   OR
   npm start
