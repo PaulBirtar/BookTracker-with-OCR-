@@ -1,3 +1,5 @@
+## Introduction
+
 This project was developed as part of my bachelor's degree. 
 
 It is a book tracker web application built using React, Node.js, Express, Axios, MongoDB, Google Books API, and Tesseract OCR. The application enables users to search for and add books to their library by utilizing the Google Books API. Additionally, users have the option to utilize a webcam or a phone's camera to extract book titles, search for them, and add them to their book tracker.
